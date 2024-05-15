@@ -54,11 +54,22 @@ In preparation for analysis and visualization, the raw dataset underwent several
 
 1. **Handling Null Values:**
    - Null values were identified across the dataset, and appropriate strategies were applied to handle them .
+  
+    ![Screenshot 2024-05-15 114243](https://github.com/Kedhar193/powerbi-dashboard/assets/115712936/6afad59d-3c64-4016-983d-dd63c1477939)
+
+    ![Screenshot 2024-05-15 114426](https://github.com/Kedhar193/powerbi-dashboard/assets/115712936/a72fbc78-8381-4bf0-98bc-211739f75b57)
+
 
 2. **Removing Duplicate Columns:**
    - Duplicate column were identified and removed to eliminate redundancy and streamline the dataset. This ensures that each attribute provides unique and valuable information for analysis.
+  
+     ![Screenshot 2024-05-15 114508](https://github.com/Kedhar193/powerbi-dashboard/assets/115712936/2d113000-3c23-424c-9c9a-57342821169f)
+
 
 3. **Data Type Formatting:**
    - Data types of the columns were standardized to ensure uniformity and compatibility with analytical tools. This involved converting categorical variables into appropriate data types (e.g., strings to categorical factors) and ensuring numerical variables are represented in the correct format (e.g., integers or floats).
+  
+     ![Screenshot 2024-05-15 114547](https://github.com/Kedhar193/powerbi-dashboard/assets/115712936/0af0540a-3837-4bae-a316-4d9fdd26f0e6)
+
 
 
