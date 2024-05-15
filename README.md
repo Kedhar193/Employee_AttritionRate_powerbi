@@ -71,5 +71,7 @@ In preparation for analysis and visualization, the raw dataset underwent several
   
      ![Screenshot 2024-05-15 114547](https://github.com/Kedhar193/powerbi-dashboard/assets/115712936/0af0540a-3837-4bae-a316-4d9fdd26f0e6)
 
-
-
+4. **Adding Additional columns:**
+   - Adding conditional column to calculate Attrition Count which simplyfies the further calculations like Attrition Rate .
+  
+     ![Screenshot 2024-05-15 135041](https://github.com/Kedhar193/powerbi-dashboard/assets/115712936/5aaa12f2-c22c-479c-961c-795a651f20b0)
