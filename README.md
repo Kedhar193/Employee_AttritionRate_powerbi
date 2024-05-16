@@ -97,7 +97,7 @@ The HR Analytics Dashboard provides a comprehensive analysis of employee attriti
   - **Attrition by Age Group:** Displays the attrition rate segmented by different age groups, showing the distribution and proportion of attrition across various age ranges.
 
 - **Matrix:**
-  - **Attrition by Job Role:** Provides a detailed view of attrition rates for different job roles within the organization.
+  - **Attrition by Job Role:** Provides a detailed view of the job satisfaction level for different job roles and attrition as values of the matrix .
 
 - **Clustered Bar Chart:**
   - **Attrition by Salary Slab:** Compares attrition rates across different salary slabs, highlighting how compensation levels affect employee turnover.
