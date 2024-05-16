@@ -75,3 +75,50 @@ In preparation for analysis and visualization, the raw dataset underwent several
    - Adding conditional column to calculate Attrition Count which simplyfies the further calculations like Attrition Rate .
   
      ![Screenshot 2024-05-15 135041](https://github.com/Kedhar193/powerbi-dashboard/assets/115712936/5aaa12f2-c22c-479c-961c-795a651f20b0)
+
+## Dashboard Overview
+
+The HR Analytics Dashboard provides a comprehensive analysis of employee attrition through various visualizations, each designed to uncover insights and trends from the dataset. Below is a detailed description of the key visualizations included in the dashboard:
+
+### Key Metrics
+- **Cards:**
+  - **Attrition Count:** Displays the total number of employees who have left the company.
+  - **Count of Employees:** Shows the total number of employees.
+  - **Attrition Rate:** Calculates the percentage of employees who have left the company.
+  - **Average Age:** Displays the average age of employees.
+  - **Average Salary:** Shows the average monthly income of employees.
+  - **Average Years at Company:** Displays the average tenure of employees at the company.
+
+### Visualizations
+- **Donut Chart:**
+  - **Attrition by Education:** Illustrates the distribution of attrition across different education levels.
+
+- **Stacked Column Chart:**
+  - **Attrition by Age Group:** Displays the attrition rate segmented by different age groups, showing the distribution and proportion of attrition across various age ranges.
+
+- **Matrix:**
+  - **Attrition by Job Role:** Provides a detailed view of attrition rates for different job roles within the organization.
+
+- **Clustered Bar Chart:**
+  - **Attrition by Salary Slab:** Compares attrition rates across different salary slabs, highlighting how compensation levels affect employee turnover.
+  - **Attrition by job role:** Reiterates the analysis of attrition segmented by job role for additional insight.
+
+- **Area Chart:**
+  - **Attrition by Years at Company:** Shows the trend of attrition over the tenure of employees, providing insights into how long employees stay before leaving.
+
+- **Heat Map:**
+  - **Attrition by Gender:** Visualizes the distribution of attrition between different genders, highlighting any gender-based patterns in employee turnover.
+
+### Interactivity
+- **Slicer:**
+  - **Department:** Allows users to filter the visualizations by specific departments, enabling a focused analysis of attrition within particular areas of the organization.
+
+  ![Screenshot 2024-05-16 095101](https://github.com/Kedhar193/powerbi-dashboard/assets/115712936/4fe32179-5f0d-48af-a5c7-67b2c8622c90)
+
+
+## Conclusion
+These visualizations collectively provide a comprehensive understanding of employee attrition, allowing stakeholders to identify key factors and trends influencing turnover. The interactive elements, such as the department slicer, further enhance the analytical capabilities of the dashboard, enabling users to drill down into specific segments and derive actionable insights.
+
+By leveraging these visualizations, HR professionals and organizational leaders can make data-driven decisions to address attrition, improve employee retention, and foster a more engaged and satisfied workforce.
+ 
+ 
