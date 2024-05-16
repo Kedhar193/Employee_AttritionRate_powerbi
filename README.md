@@ -121,6 +121,6 @@ These visualizations collectively provide a comprehensive understanding of emplo
 
 By leveraging these visualizations, HR professionals and organizational leaders can make data-driven decisions to address attrition, improve employee retention, and foster a more engaged and satisfied workforce.
  
-## source
+## Source
 
 link to the source :  https://youtu.be/j4xlVLgsmNQ?si=OjvOOJXI_eqAGOJ_
