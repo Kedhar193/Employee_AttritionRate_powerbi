@@ -113,7 +113,8 @@ The HR Analytics Dashboard provides a comprehensive analysis of employee attriti
 - **Slicer:**
   - **Department:** Allows users to filter the visualizations by specific departments, enabling a focused analysis of attrition within particular areas of the organization.
 
-  ![Screenshot 2024-05-16 095101](https://github.com/Kedhar193/powerbi-dashboard/assets/115712936/4fe32179-5f0d-48af-a5c7-67b2c8622c90)
+![Screenshot (85)](https://github.com/user-attachments/assets/5f8189f8-64f7-41a6-809e-2dd7fc2b24e7)
+
 
 
 ## Conclusion
